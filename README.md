@@ -2,11 +2,11 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Vlada+Trapeznikova)](https://git.io/typing-svg)
 
-- 🔭 I’m currently a Python teacher
-- 🌱 I’m currently learning Python and frameworks, HTML/CSS/JS
+- 🔭 I’m currently a Python backend developer. Integrations & chat-bots 
+- - 🌱 I’m currently learning Python and frameworks etc
 - 👯 I’m looking to collaborate with all the good programmers
 - 🤔 I’m looking for help with backend-development
-- 💬 Ask me about Python, HTML/CSS/JS, backend
+- 💬 Ask me about Python
 - ⚡ Fun fact: I'm crazy about dogs but i've never had 🐶
 
 ## Statistics
