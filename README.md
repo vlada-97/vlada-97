@@ -1,13 +1,15 @@
 ### Hi there 👋
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Vlada+Trapeznikova)](https://git.io/typing-svg)
+![](https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gif)
 
-- 🔭 I’m currently a Python backend developer. Integrations & chat-bots 
-- - 🌱 I’m currently learning Python and frameworks etc
-- 👯 I’m looking to collaborate with all the good programmers
-- 🤔 I’m looking for help with backend-development
-- 💬 Ask me about Python
-- ⚡ Fun fact: I'm crazy about dogs but i've never had 🐶
+- 🐍 Current Role: Python Backend Developer with a focus on Integrations & Chat-bots
+- 📚 Learning Journey: Currently diving deeper into Python and exploring various frameworks to enhance my skill set.
+- 🤝 Collaboration: Open to collaborating with skilled programmers to work on exciting projects and exchange knowledge.
+- 💡 Seeking Help: Looking for guidance and insights in the realm of backend development. Always eager to learn and improve my skills.
+- 💬 Ask Me About: Python programming language, especially in the context of backend development and chat-bot integrations.
+- ⚡ Fun Fact: Despite being a dog enthusiast, I've never had a furry friend. Share your dog stories with me!
+- 🔗 Connect: Let's connect and explore the vast world of coding together. Open to discussions, collaborations, and exchanging ideas.
 
 ## Statistics
 
